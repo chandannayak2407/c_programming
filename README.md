@@ -1,2 +1,16 @@
-# c_programming
-A comprehensive collection of C programs written during my MCA coursework. This includes foundational C programming concepts, syntax, and problem-solving examples.
+# C Programming - MCA Coursework
+
+This repository contains C programs written during my Master of Computer Applications (MCA) studies. It covers core C programming topics with well-structured and commented examples.
+
+## 📘 Topics Covered
+
+- Basics: Input/Output, Data Types, Variables
+- Control Structures: If-Else, Loops, Switch
+- Functions
+- Arrays (1D, 2D)
+- Strings
+- Pointers
+- Structures & Unions
+- File Handling
+- Recursion
+- Mini Projects
