@@ -7,7 +7,7 @@ This repository contains C programs written during my Master of Computer Applica
 - Basics: Input/Output, Data Types, Variables
 - Control Structures: If-Else, Loops, Switch
 - Functions
-- Arrays (1D, 2D)
+- Arrays
 - Strings
 - Pointers
 - Structures & Unions
